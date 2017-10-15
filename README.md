@@ -1,2 +1,0 @@
-# jbsettings
-IDE settings repo
