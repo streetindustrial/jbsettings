@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="activate venv" description="activate venv" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/zsh source $Projectpath$/venv/bin/activate" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
-    </exec>
-  </tool>
-</toolSet>
